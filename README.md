@@ -34,7 +34,7 @@ md5sum PreferencesCore_all.js >  /tmp/PreferencesCore_all.md5
 
 md5sum PreferencesCore_all.js.zgz >  /tmp/PreferencesCore_all_zgz.md5
 
-(Prosseguir se as validaçãos dos MD5 forem positivas)
+(Prosseguir se as validações dos MD5 forem positivas)
 
 gunzip -S zgz PreferencesCore_all.js.zgz
 
