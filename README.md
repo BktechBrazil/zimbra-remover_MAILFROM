@@ -44,4 +44,4 @@ patch -p0 PreferencesCore_all.js < /tmp/remover_MAILFROM.patch
 
 gzip -S zgz PreferencesCore_all.js.
 
-(Não é necessário reiniciar nenhum servidor do Zimbra)
+(Não é necessário reiniciar nenhum serviço do Zimbra)
